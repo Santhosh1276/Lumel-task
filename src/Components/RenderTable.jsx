@@ -204,7 +204,7 @@ const RenderTable = () => {
 
   return (
     <div>
-      <h1>Data Table</h1>
+      <h1>Simple Hierarchical Table Website</h1>
       <Table rows={data} />
     </div>
   );
